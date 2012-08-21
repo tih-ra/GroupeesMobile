@@ -1,0 +1,132 @@
+Logfile initialized
+[INFO] logfile = /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build.log
+[DEBUG] /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/builder.py distribute Groupees /Users/andriybazyuta/Documents/code/sdk/android-sdk-macosx /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees com.groupees.mobile /Users/andriybazyuta/Documents/code/distribution/keystores/groupees t631173n Groupees /Users/andriybazyuta/Documents/code/distribution 7
+[INFO] Titanium SDK version: 1.7.6 (03/20/12 18:32 1e5f126)
+[INFO] Copying project resources..
+[TRACE] Generating Java Classes
+[DEBUG] Processing Android resource drawables
+[TRACE] COPYING FILE: /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-port-mdpi/appicon.png => /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-notlong-port-mdpi/appicon_e5fbaffc57.png
+[DEBUG] found special platform files dir = /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/platform/android
+[INFO] Copying platform-specific files ...
+[DEBUG] copying app icon: /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/bin/assets/Resources/appicon.png
+[DEBUG] generating theme.xml
+[DEBUG] found drawable-long-land-hdpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-land-hdpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-land-hdpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-long-land-hdpi/background.png
+[DEBUG] found drawable-long-land-ldpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-land-ldpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-land-ldpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-long-land-ldpi/background.png
+[DEBUG] found drawable-long-port-hdpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-port-hdpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-port-hdpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-long-port-hdpi/background.png
+[DEBUG] found drawable-long-port-ldpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-port-ldpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-long-port-ldpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-long-port-ldpi/background.png
+[DEBUG] found drawable-notlong-land-hdpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-land-hdpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-land-hdpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-notlong-land-hdpi/background.png
+[DEBUG] found drawable-notlong-land-ldpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-land-ldpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-land-ldpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-notlong-land-ldpi/background.png
+[DEBUG] found drawable-notlong-land-mdpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-land-mdpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-land-mdpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-notlong-land-mdpi/background.png
+[DEBUG] found drawable-notlong-port-hdpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-port-hdpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-port-hdpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-notlong-port-hdpi/background.png
+[DEBUG] found drawable-notlong-port-ldpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-port-ldpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-port-ldpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-notlong-port-ldpi/background.png
+[DEBUG] found drawable-notlong-port-mdpi splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-port-mdpi/default.png
+[DEBUG] copying /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/Resources/android/images/res-notlong-port-mdpi/default.png splash screen to /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/res/drawable-notlong-port-mdpi/background.png
+[DEBUG] found splash screen at /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/bin/assets/Resources/default.png
+[TRACE] Writing out AndroidManifest.xml
+[DEBUG] adding /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/Android_serviceService.java to javac build list
+[DEBUG] adding /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/GroupeesActivity.java to javac build list
+[DEBUG] adding /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/GroupeesAppInfo.java to javac build list
+[DEBUG] adding /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/GroupeesApplication.java to javac build list
+[DEBUG] adding /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/R.java to javac build list
+[DEBUG] Building Java Sources: "/Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/Android_serviceService.java" "/Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/GroupeesActivity.java" "/Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/GroupeesAppInfo.java" "/Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/GroupeesApplication.java" "/Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/gen/com/groupees/mobile/R.java"
+[INFO] Compiling Android Resources... This could take some time
+[DEBUG] Android classes.dex built
+[DEBUG] creating unsigned apk: /Users/andriybazyuta/Documents/Titanium Studio Workspace/Groupees/build/android/bin/app-unsigned.apk
+[DEBUG] from resource zip => assets/Resources/images/color_picker/colormap.png
+[DEBUG] from resource zip => assets/Resources/images/color_picker/hscrosshair.gif
+[DEBUG] from resource zip => assets/Resources/images/color_picker/lcrosshair.png
+[DEBUG] from resource zip => assets/Resources/images/colors/party_blue.png
+[DEBUG] from resource zip => assets/Resources/images/colors/party_bw.png
+[DEBUG] from resource zip => assets/Resources/images/colors/party_green.png
+[DEBUG] from resource zip => assets/Resources/images/colors/party_red.png
+[DEBUG] from resource zip => assets/Resources/images/colors/rock_blue.png
+[DEBUG] from resource zip => assets/Resources/images/colors/rock_bw.png
+[DEBUG] from resource zip => assets/Resources/images/colors/rock_green.png
+[DEBUG] from resource zip => assets/Resources/images/colors/rock_red.png
+[DEBUG] from resource zip => assets/Resources/images/colors/romantic_blue.png
+[DEBUG] from resource zip => assets/Resources/images/colors/romantic_bw.png
+[DEBUG] from resource zip => assets/Resources/images/colors/romantic_green.png
+[DEBUG] from resource zip => assets/Resources/images/colors/romantic_red.png
+[DEBUG] from resource zip => assets/Resources/images/tabs/bundle.png
+[DEBUG] from resource zip => assets/Resources/images/tabs/extra.png
+[DEBUG] from resource zip => assets/Resources/images/tabs/top_donor.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/bundle1.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/bundle2.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/bundle_meals.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/bundle_time_left.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/const.jpg
+[DEBUG] from resource zip => assets/Resources/images/tmp/g0.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/g1.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/g2.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/g3.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/g4.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/ga0.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/ga1.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/ga2.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/kl.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/left_time.png
+[DEBUG] from resource zip => assets/Resources/images/tmp/meals.png
+[DEBUG] from resource zip => assets/Resources/images/bundles_button.png
+[DEBUG] from resource zip => assets/Resources/images/gift_it.png
+[DEBUG] from resource zip => assets/Resources/images/inbox_button.png
+[DEBUG] from resource zip => assets/Resources/images/minus.png
+[DEBUG] from resource zip => assets/Resources/images/music_button.png
+[DEBUG] from resource zip => assets/Resources/images/plus.png
+[DEBUG] from resource zip => assets/Resources/images/profile_button.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_ui.png
+[DEBUG] from resource zip => assets/Resources/KS_nav_views.png
+[DEBUG] from resource zip => assets/Resources/appicon.png
+[DEBUG] from resource zip => assets/Resources/default.png
+[DEBUG] from resource zip => assets/tiapp.xml
+[DEBUG] from resource zip => res/drawable/appicon.png
+[DEBUG] from resource zip => res/drawable/background.png
+[DEBUG] from resource zip => res/drawable/icon.png
+[DEBUG] from resource zip => res/layout/titanium_tabgroup.xml
+[DEBUG] from resource zip => AndroidManifest.xml
+[DEBUG] from resource zip => resources.arsc
+[DEBUG] from resource zip => res/drawable-hdpi/icon.png
+[DEBUG] from resource zip => res/drawable-ldpi/icon.png
+[DEBUG] from resource zip => res/drawable-long-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-long-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-land-mdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-hdpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-ldpi/background.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/appicon_e5fbaffc57.png
+[DEBUG] from resource zip => res/drawable-notlong-port-mdpi/background.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/modules/android/ti.paypal/1.5/lib/PayPal_MPL.jar => com/paypal/android/utils/data/data.bin
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/modules/android/ti.paypal/1.5/lib/PayPal_MPL.jar => com/paypal/android/utils/data/locale.bin
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.js
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/binding.min.js
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/modules/titanium-ui.jar => ti/modules/titanium/ui/widget/webview/json2.js
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/apache/Commons-NOTICE.txt
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/apache/HttpComponents-NOTICE.txt
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/apache/mime4j-NOTICE.txt
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/build.properties
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/background.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_18.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_check_buttonless_on_48.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_18.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_more_48.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_normal.9.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_pressed.9.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/btn_picker_selected.9.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/default_icon.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/titanium.jar => org/appcelerator/titanium/res/drawable/photoDefault.png
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/smalljs.jar => org/mozilla/javascript/resources/Messages.properties
+[DEBUG] from JAR /Users/andriybazyuta/Library/Application Support/Titanium/mobilesdk/osx/1.7.6/android/smalljs.jar => org/mozilla/javascript/resources/Messages_fr.properties
+[DEBUG] signal caught: 15

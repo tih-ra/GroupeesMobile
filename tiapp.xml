@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ti:app xmlns:ti="http://ti.appcelerator.org">
+    <property name="ti.android.runtime">rhino</property>
+    <property name="acs-oauth-secret-production" type="string">DZ9AezITZbd4BrKG2kf3nuLjbgTaVVGh</property>
+    <property name="acs-oauth-key-production" type="string">DWnaCutKlq2C5SQAMmIBdPVW49dd44uJ</property>
+    <property name="acs-api-key-production" type="string">uy6MhDfFNbaXTj6TVzpTAby70FJF6xWN</property>
+    <property name="acs-oauth-secret-development" type="string">taYR50MJAvTCjJshAWK4qG0h9wv12deA</property>
+    <property name="acs-oauth-key-development" type="string">82iLbKZwF2EfuVRXSsmmVJ66ZojYnug6</property>
+    <property name="acs-api-key-development" type="string">IKD9Aiy6L53y9rjKrHA4g8thmr8zv3Rx</property>
+    <deployment-targets>
+        <target device="mobileweb">false</target>
+        <target device="iphone">true</target>
+        <target device="ipad">false</target>
+        <target device="android">true</target>
+        <target device="blackberry">false</target>
+    </deployment-targets>
+    <sdk-version>1.7.6</sdk-version>
+    <id>com.groupees.mobile</id>
+    <name>Groupees</name>
+    <version>1.0</version>
+    <publisher>andriybazyuta</publisher>
+    <url>http://</url>
+    <description>not specified</description>
+    <copyright>2012 by andriybazyuta</copyright>
+    <icon>appicon.png</icon>
+    <persistent-wifi>false</persistent-wifi>
+    <prerendered-icon>false</prerendered-icon>
+    <statusbar-style>default</statusbar-style>
+    <statusbar-hidden>false</statusbar-hidden>
+    <fullscreen>false</fullscreen>
+    <navbar-hidden>false</navbar-hidden>
+    <analytics>true</analytics>
+    <guid>7b65b2dd-13f8-4a29-84a1-c3811f2486cd</guid>
+    <property name="ti.ui.defaultunit">system</property>
+    <iphone>
+        <orientations device="iphone">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+        </orientations>
+        <orientations device="ipad">
+            <orientation>Ti.UI.PORTRAIT</orientation>
+            <orientation>Ti.UI.UPSIDE_PORTRAIT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_LEFT</orientation>
+            <orientation>Ti.UI.LANDSCAPE_RIGHT</orientation>
+        </orientations>
+    </iphone>
+    <android xmlns:android="http://schemas.android.com/apk/res/android">
+        <services>
+            <service type="interval" url="android_service.js"/>
+        </services>
+    </android>
+    <mobileweb>
+        <precache/>
+        <splash>
+            <enabled>true</enabled>
+            <inline-css-images>true</inline-css-images>
+        </splash>
+        <theme>default</theme>
+    </mobileweb>
+    <modules>
+        <module platform="commonjs" version="2.0.1">ti.cloud</module>
+        <module platform="android" version="0.1">com.pusher</module>
+        <module platform="iphone" version="1.0">ti.soundsampler</module>
+        <module platform="android" version="1.0">ti.soundsampler</module>
+        <module platform="iphone" version="1.5">ti.paypal</module>
+        <module platform="android" version="1.5">ti.paypal</module>
+    </modules>
+</ti:app>
